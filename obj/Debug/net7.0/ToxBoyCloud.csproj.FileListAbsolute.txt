@@ -1,0 +1,15 @@
+/root/TestA/GitLibrary/ToxBoyCloud/bin/Debug/net7.0/ToxBoyCloud
+/root/TestA/GitLibrary/ToxBoyCloud/bin/Debug/net7.0/ToxBoyCloud.deps.json
+/root/TestA/GitLibrary/ToxBoyCloud/bin/Debug/net7.0/ToxBoyCloud.runtimeconfig.json
+/root/TestA/GitLibrary/ToxBoyCloud/bin/Debug/net7.0/ToxBoyCloud.dll
+/root/TestA/GitLibrary/ToxBoyCloud/bin/Debug/net7.0/ToxBoyCloud.pdb
+/root/TestA/GitLibrary/ToxBoyCloud/obj/Debug/net7.0/ToxBoyCloud.csproj.AssemblyReference.cache
+/root/TestA/GitLibrary/ToxBoyCloud/obj/Debug/net7.0/ToxBoyCloud.GeneratedMSBuildEditorConfig.editorconfig
+/root/TestA/GitLibrary/ToxBoyCloud/obj/Debug/net7.0/ToxBoyCloud.AssemblyInfoInputs.cache
+/root/TestA/GitLibrary/ToxBoyCloud/obj/Debug/net7.0/ToxBoyCloud.AssemblyInfo.cs
+/root/TestA/GitLibrary/ToxBoyCloud/obj/Debug/net7.0/ToxBoyCloud.csproj.CoreCompileInputs.cache
+/root/TestA/GitLibrary/ToxBoyCloud/obj/Debug/net7.0/ToxBoyCloud.dll
+/root/TestA/GitLibrary/ToxBoyCloud/obj/Debug/net7.0/refint/ToxBoyCloud.dll
+/root/TestA/GitLibrary/ToxBoyCloud/obj/Debug/net7.0/ToxBoyCloud.pdb
+/root/TestA/GitLibrary/ToxBoyCloud/obj/Debug/net7.0/ToxBoyCloud.genruntimeconfig.cache
+/root/TestA/GitLibrary/ToxBoyCloud/obj/Debug/net7.0/ref/ToxBoyCloud.dll
